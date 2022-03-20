@@ -1,2 +1,2 @@
 # articles
-Manage articles on IT technology
+Qiita等の記事の管理
